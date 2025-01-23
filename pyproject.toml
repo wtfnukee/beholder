@@ -1,0 +1,13 @@
+[project]
+name = "beholder"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyrogram>=2.0.106",
+    "yandex-cloud-ml-sdk>=0.2.4",
+]
+
+[tool.poetry.dependencies]
+python-dotenv = "^1.0.0"
