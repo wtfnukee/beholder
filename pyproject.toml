@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pyrogram>=2.0.106",
+    "python-dotenv>=1.0.1",
     "yandex-cloud-ml-sdk>=0.2.4",
 ]
 
